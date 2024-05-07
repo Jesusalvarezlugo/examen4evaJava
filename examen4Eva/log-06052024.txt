@@ -1,0 +1,3 @@
+[INFO] se cerrara la aplicacion.
+[INFO] Registro de llegada.
+[INFO] se cerrara la aplicacion.
